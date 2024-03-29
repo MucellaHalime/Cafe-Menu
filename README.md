@@ -7,7 +7,7 @@ This is a beginner-level cafe menu web page created using HTML and CSS.
     CSS
     
 ## Description
-The cafe menu web page provides a list of coffee delights and snacks available at the "CAMPER CAFE" cafe. The web page is divided into two sections: "Coffee" and "Desserts"
+The cafe menu web page provides a list of coffee and desserts available at the "CAMPER CAFE" cafe. The web page is divided into two sections: "Coffee" and "Desserts"
 
 The "Coffee" section includes the following items:
 
